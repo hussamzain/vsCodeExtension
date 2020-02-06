@@ -12,6 +12,8 @@
   > Launch a development local Server with live reload feature for static & dynamic pages.
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
   > Material Design Icons for Visual Studio Code.
+- [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
+  > An arctic, north-bluish clean and elegant Visual Studio Code theme.
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   > VS Code plugin for prettier/prettier.
   > `"prettier.singleQuote": true`
